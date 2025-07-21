@@ -1,0 +1,17 @@
+
+[
+    {
+        "name": "Casual Red Dress",
+        "image_url": "https://example.com/red-dress.jpg ",
+        "attributes": {
+            "color": "red",
+            "style": "casual",
+            "size": "M"
+        },
+        "compatibility": {
+            "hip": [34, 40],
+            "waist": [26, 32]
+        }
+    }
+]
+    
