@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sample Dress",
+        "image_url": "https://example.com/dress.jpg",
+        "attributes": {
+            "color": "red",
+            "size": "M"
+        },
+        "compatibility": {
+            "hip": [
+                34,
+                40
+            ],
+            "waist": [
+                26,
+                32
+            ]
+        }
+    }
+]
